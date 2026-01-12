@@ -1,0 +1,8 @@
+FPSGame.sln
+.vsconfig
+.idea/
+Binaries/
+Intermediate/
+Saved/
+.vs/
+Content/StarterContent/
